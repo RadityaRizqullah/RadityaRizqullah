@@ -1,33 +1,118 @@
-# 👨‍💻 Hi, I'm Raditya Rizqullah!
+# Hi, I'm Raditya Rizqullah 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Enthusiast;Always+Learning+New+Things;Building+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-stack+Developer;ML%2FDL%2FAI+Enthusiast;Data+Engineering+Explorer;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RadityaRizqullah&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RadityaRizqullah?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <a href="https://github.com/RadityaRizqullah">
+    <img src="https://komarev.com/ghpvc/?username=RadityaRizqullah&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/RadityaRizqullah?tab=followers">
+    <img src="https://img.shields.io/github/followers/RadityaRizqullah?label=Followers&style=flat&color=1f6feb" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/radityarizqullah/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Raditya Rizqullah**, a developer who enjoys exploring technology, building digital solutions, and continuously improving my programming skills.
+I'm **Raditya Rafif Rizqullah**, an Informatics student at **Universitas Gunadarma**, Indonesia, with a strong interest in software engineering, artificial intelligence, and data-driven technologies.
 
-- 💻 Passionate about software development and technology.
-- 🌱 Always learning new tools, frameworks, and programming languages.
-- 🔍 Interested in solving problems through code.
-- 🛠️ Enjoy building projects and experimenting with new ideas.
-- 🎯 Focused on continuous learning and personal growth.
-- 🤝 Open to collaboration and exciting projects.
+I enjoy designing and developing practical digital solutions, exploring emerging technologies, and turning ideas into functional applications.
+
+Currently, I'm working as a **Laboratory Teaching Assistant at Laboratorium Informatika Universitas Gunadarma**, where I help students understand programming concepts and develop their technical skills.
+
+- 🎓 Informatics Student at Universitas Gunadarma.
+- 💻 Interested in Full-stack Development and Software Engineering.
+- 🤖 Exploring Machine Learning, Deep Learning, and Artificial Intelligence.
+- 📊 Interested in Data Science, Data Analysis, and Data Engineering.
+- 🧑‍🏫 Experienced in teaching programming and assisting laboratory activities.
+- 🌱 Always learning, experimenting, and building new things.
+- 🤝 Open to collaboration, interesting projects, and professional opportunities.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
+
+Technologies and tools I work with or actively explore.
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,go,java,cpp" alt="Programming Languages" />
+</p>
+
+**Frontend & Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,laravel,tailwind" alt="Web Development" />
+</p>
+
+**Database & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" alt="Database Technologies" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
+**Development Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" alt="Development Tools" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+| Position | Organization | Period |
+|---|---|---|
+| Laboratory Teaching Assistant | Laboratorium Informatika Universitas Gunadarma | Sep 2025 – Present |
+| Assistant of MK Praktikum Unggulan (DGX) | Universitas Gunadarma | Mar 2025 – May 2026 |
+| Report Writer | PT Bennatin Surya Cipta | Sep 2023 – Nov 2023 |
+| IT Support Technician | PT Bonet Utama | Jul 2023 – Sep 2023 |
+
+**Highlights**
+
+- 👨‍🏫 Assisted more than 200 students across programming and database practical courses.
+- 📚 Prepared learning materials, coordinated laboratory activities, and supported practical sessions.
+- 📊 Analyzed historical company project data and prepared reports to support strategic planning.
+- 🌐 Installed and configured CCTV systems and local networks, including troubleshooting and technical support.
+
+---
+
+## 🎓 Education & Certifications
+
+**Universitas Gunadarma**
+
+- Informatics
+- 2024 – 2027
+
+**Certifications & Professional Development**
+
+- Speaker – Forum Group Discussion: Pengembangan Model Klasifikasi Gagal Jantung dengan Support Vector Machine dan Optimasi Firefly Algorithm (April 2025).
+- Training of Trainer (ToT) – Asisten MK Praktikum Unggulan / Praktikum DGX (March 2025).
+- Workshop – The Art of Data: Preparing and Visualizing with Python (March 2025).
+
+---
+
+## 🚀 Featured Projects
+
+I enjoy building projects that combine software engineering, automation, and artificial intelligence.
+
+Explore my repositories to discover my latest work:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,cpp,react,nodejs,laravel,mysql,git,github,vscode&perline=7" />
+  <a href="https://github.com/RadityaRizqullah?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
 </p>
 
 ---
@@ -35,12 +120,12 @@ Hello! I'm **Raditya Rizqullah**, a developer who enjoys exploring technology, b
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=RadityaRizqullah&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadityaRizqullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RadityaRizqullah&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadityaRizqullah&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RadityaRizqullah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=RadityaRizqullah&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -48,37 +133,28 @@ Hello! I'm **Raditya Rizqullah**, a developer who enjoys exploring technology, b
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RadityaRizqullah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RadityaRizqullah&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🌐 Let's Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadityaRizqullah&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌐 Connect With Me
+I'm always interested in connecting with developers, exchanging ideas, collaborating on projects, and exploring new opportunities.
 
 <p align="center">
   <a href="https://github.com/RadityaRizqullah">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/radityarizqullah/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-  <br/>
-  ⭐ Thanks for visiting my profile! Have a great day!
+  <i>"Build with purpose. Learn continuously. Improve consistently."</i>
+  <br/><br/>
+  ⭐ Thanks for visiting my profile!
 </p>
