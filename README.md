@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=RadityaRizqullah&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
